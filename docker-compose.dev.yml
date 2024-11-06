@@ -1,0 +1,4 @@
+services:
+  user-service:
+    volumes:
+      - ./user-service:/app
